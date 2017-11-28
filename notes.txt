@@ -1,0 +1,20 @@
+  Fragments importants memòria TFG fracsland
+Pag. 20:
+“Des del punt de vista del professorat, un joc seriós té definits uns objectius d'aprenentatge determinats per les competències curriculars del programa docent a cada etapa. Cada objectiu o conjunt d'objectius d'aprenentatge es pot assolir realitzant un conjunt d'activitats docents que permeten avaluar el grau en el que l'estudiant ha adquirit la competència associada a l'objectiu.”
+Pag 23. 
+Cada repte seria una unitat amb input i output?
+-	Els professors configuren els conjunts de reptes, el nostre objectiu seria fer les configuracions automàticament segons uns criteris?
+-	El joc de FracsLand té 4 zones, el jugador es pot moure lliurement.
+-	Un jugador fa la quest i quan la resol, pot reclamar la seva recompensa -> recompensa és l’output?
+-	En alguns casos necesita plantar vegetals o fer algo (ho ha d’obtenir previament com a input?)
+Tenir en compte:
+Pag. 32:
+“Quan el jugador interaccioni amb Lord Barus aquest ha de seleccionar 3 quests a l’atzar (una de cada zona) per tal de que el jugador pugui decidir a quina quest vol fer.
+Per tal de que l’alumne faci quests que tinguin la representació que el professor prefereix Lord Barus ha de recompensar amb una mica més d’or i diamants aquelles que treballin la representació de fracció seleccionada pel professor.”
+Suposo que s’ha de treballar amb les ofertes de Lord Barus, fer que en algún cas sigui inevitable seleccionar una QUEST que treballi coses concretes o depen del material resultant que es necessiti.
+Pag. 33 -> Veure elements dins del joc: nivel, vida, experiencia, recursos econòmics, objectius actuals, peces de vaixell que falten, inventari. 
+Pag. 36-> Desenvolupament: 5 classes principals (mirar esquema, fixar-se sobretot en el QuestManager?).
+Pag. 37 -> Diagrama Quests
+Pag. 42 -> Esdeveniments i entitats 
+del joc: estudiar què fan els tipus de events i quin paper tenen en els Quests.
+Pag. 44 -> Pie fracción (entitat)
